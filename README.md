@@ -4,19 +4,19 @@
 
 # URL conversion
 
-- ..youtube.com/watch?v= -> youtu.be/
-- ..pixiv.net/artworks/ -> pixiv.net/i/
-- ..pixiv.net/users/ -> pixiv.net/u/
-- ..ch.nicovideo.jp/ch -> nico.ms/ch
-- ..q.nicovideo.jp/watch/nq -> nico.ms/nq
-- ..3d.nicovideo.jp/works/td -> nico.ms/td
-- ..news.nicovideo.jp/watch/nw -> nico.ms/nw
-- ..live.nicovideo.jp/watch/lv -> nico.ms/lv
-- ..manga.nicovideo.jp/watch/mg -> nico.ms/mg
-- ..seiga.nicovideo.jp/seiga/im -> nico.ms/im
-- ..commons.nicovideo.jp/works/nc -> nico.ms/nc
-- ..nicovideo.jp/user/ -> nico.ms/user/
-- ..nicovideo.jp/watch/ -> nico.ms/
+- youtube.com/watch?v= -> youtu.be/
+- pixiv.net/artworks/ -> pixiv.net/i/
+- pixiv.net/users/ -> pixiv.net/u/
+- ch.nicovideo.jp/ch -> nico.ms/ch
+- q.nicovideo.jp/watch/nq -> nico.ms/nq
+- 3d.nicovideo.jp/works/td -> nico.ms/td
+- news.nicovideo.jp/watch/nw -> nico.ms/nw
+- live.nicovideo.jp/watch/lv -> nico.ms/lv
+- manga.nicovideo.jp/watch/mg -> nico.ms/mg
+- seiga.nicovideo.jp/seiga/im -> nico.ms/im
+- commons.nicovideo.jp/works/nc -> nico.ms/nc
+- nicovideo.jp/user/ -> nico.ms/user/
+- nicovideo.jp/watch/ -> nico.ms/
 
 
 ## JavaScript (Bookmarklet)
