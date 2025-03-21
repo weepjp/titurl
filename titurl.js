@@ -16,7 +16,7 @@ javascript:(function(){
     p.host = ph.join(".");
     
     // 不要なクエリーパラメーター削除
-    var removeKeys = ["si","app","feature","track","ref"];
+    var removeKeys = ["si","app","feature","track","ref","tag"];
     removeKeys.forEach(function(k){
         p.searchParams.delete(k);
     });
