@@ -1,6 +1,8 @@
 # titurl
 
 - Title and URL Copy Bookmarklet
+- YouTube(youtu.be), niconico(nico.ms), pixiv(pixiv.net/*/～)
+- 「短縮URLの有り難みを思い知れ！」という話。
 
 # titurl3
 
