@@ -24,7 +24,7 @@ javascript:(()=> {try{const op=document.getElementById("ttp");if(op)op.remove();
 - sp
 - m
 
-## URL-query parameter (Tracking code?) exclusion
+## url-query (Tracking code?) exclusion
 
 - si=*
 - lc=*
