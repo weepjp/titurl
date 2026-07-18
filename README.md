@@ -19,13 +19,13 @@ javascript:(()=> {try{const oldPanel=document.getElementById("ttp");if(oldPanel)
 ```
 
 
-## Subdomain exclusion
+## url-domain exclusion
 
 - w​w​w
 - sp
 - m
 
-## URL-Query parameter or Tracking code exclusion
+## URL-query parameter (Tracking code?) exclusion
 
 - si=*
 - lc=*
@@ -37,7 +37,7 @@ javascript:(()=> {try{const oldPanel=document.getElementById("ttp");if(oldPanel)
 - redirected=*
 
 
-## URL conversion Rule (Roughly...)
+## url-shortener
 
 - youtube.com/watch?v= -> youtu.be/
 - youtube.com/shorts/ -> youtu.be/
